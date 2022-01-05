@@ -1,0 +1,532 @@
+@media only screen and (max-width:985px) and (min-width:490px) {
+    .bg-blue {
+        clip-path: none !important;
+    }
+}
+
+@media only screen and (max-width:653px) and (min-width:576px) {
+    .button {
+        margin-top: 7px !important;
+    }
+}
+
+@media only screen and (max-width:466px) and (min-width:300px) {
+    .card {
+        margin-top: 20px !important;
+        margin-bottom: 20px !important;
+        height: 643px !important;
+    }
+}
+
+@media (min-width: 1327px) {}
+
+.pl-xl-5 {
+    padding-left: 6rem!important;
+}
+
+@media (min-width: 1327px) {}
+
+.pt-7rem {
+    padding-top: 9rem!important;
+}
+
+@media (min-width: 1600px) {
+    .p-260 {
+        padding-top: 260px!important;
+    }
+}
+
+@media only screen and (max-width:1199px) and (min-width:992px) {
+    #heading-2 {
+        font-size: 25px !important;
+    }
+}
+
+@media only screen and (max-width:991px) {
+    .social-media {
+        padding-top: 0 !important;
+    }
+}
+
+body {
+    font-family: 'Roboto', sans-serif !important;
+}
+
+.btn-group>.btn-group:not(:last-child)>.btn,
+.btn-group>.btn:not(:last-child):not(.dropdown-toggle) {
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+}
+
+
+/* .wraper {
+    height: 100vh;
+} */
+
+.typing-demo {
+    width: 50ch;
+    animation: typing 4s steps(50), blink .5s step-end infinite alternate-reverse;
+    white-space: nowrap;
+    overflow: hidden;
+    font-family: 'Roboto', sans-serif;
+}
+
+@keyframes typing {
+    from {
+        width: 0
+    }
+}
+
+.worldnoor-logo {
+    width: 190px;
+    height: 26px;
+}
+
+.section1 {
+    position: relative;
+    overflow: hidden;
+}
+
+.section1-text {
+    text-align: center;
+}
+
+.box {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #ffff;
+    position: relative;
+}
+
+.heading-main {
+    color: goldenrod;
+}
+
+.card {
+    height: 573px;
+    margin-top: 30px;
+}
+
+.card-header {
+    background-color: transparent !important;
+    border-bottom: none;
+    color: #0069d9;
+    display: flex;
+    justify-content: center;
+}
+
+.section2 {
+    overflow: hidden;
+    position: relative;
+    margin-top: 90px;
+}
+
+.thubmnail {
+    text-align: right;
+    z-index: 1;
+    position: relative;
+    padding-top: 100px;
+}
+
+.list-unstyled {
+    list-style: none;
+    line-height: 3;
+    color: white;
+}
+
+.pb-7rem {
+    padding-bottom: 7rem;
+}
+
+.pt-7rem {
+    padding-top: 7rem;
+}
+
+.bg-blue {
+    background-color: #0069d9;
+    clip-path: polygon(8% 18%, 100% 17%, 100% 94%, 0 95%);
+}
+
+.text-style {
+    font-weight: 700 !important;
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.mb-30 {
+    margin-bottom: 30px;
+}
+
+.How-worldnoor-is-different {
+    background-color: #dd4334;
+    padding-left: 28px;
+    padding-top: 86px;
+    color: white;
+}
+
+.h-569 {
+    height: 579px;
+}
+
+.zero-hate {
+    background-color: #ab3e8f;
+    padding-left: 28px;
+    padding-top: 86px;
+    color: white;
+}
+
+.real-time-translation {
+    background-color: white;
+    padding-left: 28px;
+    padding-top: 86px;
+}
+
+.How-worldnoor-is-different p {
+    line-height: 1.35;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.How-worldnoor-is-different h2 {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.zero-hate p {
+    line-height: 1.35;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.zero-hate h2 {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.real-time-translation p {
+    line-height: 1.35;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 50px;
+    color: gray;
+}
+
+.real-time-translation h2 {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.Free-for-Everyone {
+    background-color: white;
+    padding-left: 28px;
+    padding-top: 86px;
+}
+
+.Free-for-Everyone p {
+    line-height: 1.35;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 50px;
+    color: gray;
+}
+
+.Free-for-Everyone h2 {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.Free-for-Everyone-img {
+    clip-path: circle(46.8% at 50% 50%);
+    margin-top: 90px;
+    margin-bottom: 5rem;
+    width: 420px;
+    margin-left: 100px;
+}
+
+.WorldNoor-will-promote-you {
+    background-color: #1b99ec;
+    padding-left: 28px;
+    padding-top: 86px;
+    color: white;
+}
+
+.WorldNoor-will-promote-you p {
+    line-height: 1.35;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.WorldNoor-will-promote-you h2 {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.Zero-Tracking {
+    background-color: #84a1d2;
+    padding-left: 28px;
+    padding-top: 86px;
+    color: white;
+}
+
+.Zero-Tracking p {
+    line-height: 1.35;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.Zero-Tracking h2 {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.Unlimited-Sharing {
+    background-color: #06c098;
+    padding-left: 28px;
+    padding-top: 86px;
+    color: white;
+}
+
+.Unlimited-Sharing p {
+    line-height: 1.35;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.Unlimited-Sharing h2 {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.Safet-security {
+    background-color: #fd6f96;
+    padding-left: 28px;
+    padding-top: 86px;
+    color: white;
+}
+
+.Safet-security p {
+    line-height: 1.35;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.Safet-security h2 {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.Work-on {
+    background-color: #ad7658;
+    padding-left: 28px;
+    padding-top: 86px;
+    color: white;
+}
+
+.Work-on p {
+    line-height: 1.35;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.Work-on h2 {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.privacy-secrity {
+    padding-left: 28px;
+    padding-top: 138px;
+    color: white;
+}
+
+.privacy-secrity p {
+    line-height: 1.35;
+    font-size: 22px;
+    padding-left: 20px;
+    padding-right: 50px;
+}
+
+.privacy-secrity h2 {
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+.ps {
+    background-color: #000134;
+}
+
+.ps-img {
+    padding-top: 90px;
+}
+
+.button {
+    border-radius: 50px;
+    padding: 8px 24px;
+}
+
+.header-input {
+    border-radius: 50px;
+    padding: 12px 30px;
+    width: 300px;
+}
+
+.card-input {
+    border-radius: 50px;
+}
+
+.custom-card .card {
+    border-radius: 35px;
+    box-shadow: 2px 2px 26px rgb(0 0 0 / 10%);
+    background-color: #ffffffdb;
+}
+
+.lang-button {
+    border-radius: 50px;
+}
+
+.footer-bottom {
+    padding: 3.75rem;
+}
+
+.footer-coyright {
+    font-size: 14px;
+    color: #535353;
+}
+
+.social-media {
+    padding-top: 300px;
+}
+
+
+/* @media only screen and (max-width: 661px) {
+    .button {
+        margin-top: 10px !important;
+        margin-left: 0px !important;
+    }
+}
+
+@media only screen and (max-width: 661px) {
+    .button1 {
+        margin-top: 10px !important;
+        margin-left: 0px !important;
+    }
+}
+
+@media only screen and (max-width: 847px) {
+    .button {
+        margin-top: 10px !important;
+    }
+}
+
+@media only screen and (min-width:460px) and (max-width: 575px) {
+    .button {
+        margin-left: 5px !important;
+    }
+}
+
+@media only screen and (max-width: 464px) {
+    .header-input {
+        margin-top: 5px !important;
+    }
+}
+
+.worldnoor-logo {
+    width: 155px;
+    height: 34px;
+}
+
+.bg-color {
+    background-color: #fdfbff;
+}
+
+.header-input {
+    border-radius: 50px;
+    padding: 12px 30px;
+    width: 300px;
+}
+
+.button {
+    border-radius: 50px;
+    padding: 8px 24px;
+}
+
+.lang-button {
+    border-radius: 50px 50px;
+}
+
+.section1 {
+    position: relative;
+}
+
+.section1-text {
+    position: absolute;
+    top: 58%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+}
+
+.section1-text h2 {
+    padding-left: 80px;
+    color: #fdc300;
+    font-size: 35px;
+}
+
+.card-title {
+    color: #3177dc;
+}
+
+.card-header {
+    border-bottom: none;
+    background-color: #ffffff;
+    display: flex;
+    justify-content: center;
+}
+
+.col-md-4 {
+    right: 10%;
+}
+
+.signup-btn {
+    border-radius: 50px;
+    padding: 10px 40px;
+}
+
+.color-black {
+    color: #212622;
+}
+
+.my-select {
+    border: 1px solid #ced4da;
+    display: flex;
+    grid-template-areas: "select";
+    align-items: baseline;
+    position: relative;
+}
+
+
+/* 
+.border-radius-20 {
+    border-radius: 20px;
+}
+
+.w-3 {
+    width: 32%;
+} */
+
+
+/* .br-20 {
+    border-radius: 20px;
+}
+
+.w-130 {
+    width: 130px;
+    padding: 7px 7px;
+} */
